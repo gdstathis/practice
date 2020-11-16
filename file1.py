@@ -1,3 +1,6 @@
-x=5
-y=5
-k=y-5
+#create conflict
+#comment
+#comment
+x=6
+y=7
+z=x-7
