@@ -1,6 +1,6 @@
-#create conflict
+#credsfsdate conflict
+#cdfsfsdomment
 #comment
-#comment
-x=6
-y=7
-z=x-7
+x=6dsf
+y=7dsf
+z=x-7sdf
